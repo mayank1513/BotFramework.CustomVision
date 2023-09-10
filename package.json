@@ -12,6 +12,6 @@
     "botbuilder": "^4.0.6",
     "needle": "^2.1.2",
     "request-promise": "^4.2.2",
-    "restify": "^8.1.0"
+    "restify": "^8.1.1"
   }
 }
